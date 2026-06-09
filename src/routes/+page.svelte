@@ -1,2 +1,18 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<svelte:head>
+	<title>کاویان انرژی</title>
+
+	<meta
+		name="description"
+		content="کاویان انرژی - ارائه راهکارهای نوین انرژی، بهینه سازی مصرف و خدمات مهندسی"
+	/>
+</svelte:head>
+
+<section class="container py-24">
+	<h1 class="text-5xl font-bold">
+		کاویان انرژی
+	</h1>
+
+	<p class="mt-6 max-w-2xl text-lg">
+		ارائه راهکارهای نوین انرژی، بهینه‌سازی مصرف و خدمات مهندسی
+	</p>
+</section>
