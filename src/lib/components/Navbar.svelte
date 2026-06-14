@@ -25,7 +25,7 @@
     });
 </script>
 
-<header class="navbar" class:scrolled>
+<header class="navbar" class:scrolled style="view-transition-name: navbar;">
     <div class="container-custom nav-inner">
         <a href="/" class="logo" onclick={() => (mobileOpen = false)}>
             <div class="logo-icon">

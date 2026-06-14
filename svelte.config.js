@@ -7,10 +7,18 @@ const config = {
       assets: 'build',
       fallback: '404.html',
       precompress: false,
-      strict: true
+      strict: false
     }),
     prerender: {
-      handleHttpError: 'warn'
+      entries: [
+        '/',
+        '/about',
+        '/services',
+        '/products',
+        '/contact'
+      ],
+      handleHttpError: 'warn',
+      crawl: true
     }
   }
 };

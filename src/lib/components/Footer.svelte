@@ -18,7 +18,7 @@
   ];
 </script>
 
-<footer>
+<footer style="view-transition-name: footer;">
   <div class="footer-glow-line" aria-hidden="true"></div>
 
   <div class="footer-body">
@@ -136,7 +136,7 @@
         <div class="map-wrap">
           <iframe
             title="دفتر شرکت"
-            src="https://neshan.org/maps/iframe/places/_b14x_WJGPAa#c36.330-59.563-20z-0p/36.3296966422504/59.56256502476694"
+            src="https://neshan.org/maps/iframe/places/137c0f1dbe2c1abfacfd276948120c58#c36.330-59.563-19z-0p/36.3298488911435/59.562657203418524"
             allowFullScreen
             loading="lazy"
           ></iframe>
@@ -152,7 +152,7 @@
       <p class="copyright">
         © {year} شرکت بهینه‌سازی انرژی کاویان — تمامی حقوق محفوظ است
       </p>
-      <!-- Badge نمایندگی eMAPNA -->
+
       <div class="emapna-badge">
         <span>نماینده رسمی</span>
         <span class="emapna-name">eMAPNA</span>
