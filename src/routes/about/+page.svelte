@@ -78,7 +78,7 @@
   <section class="about-hero">
     <div class="container-custom">
       <div class="hero-content">
-        <h1 class="heading-xl" style="view-transition-name: page-title;">درباره کاویان انرژی</h1>
+        <h1 class="heading-xl">درباره کاویان انرژی</h1>
         <p class="hero-subtitle">
           متعهد به تحول انرژی و توسعه راهکارهای نوین برای آینده‌ای پایدار
         </p>
