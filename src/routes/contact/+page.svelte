@@ -2,7 +2,7 @@
   import { onMount } from 'svelte';
 
   onMount(() => {
-    // future animations can be added here
+
   });
 </script>
 
@@ -47,7 +47,9 @@
 
             <div>
               <h3>آدرس</h3>
-              <p>مشهد، خراسان رضوی، ایران</p>
+              <p>
+                 خراسان رضوی-مشهد-بلوار جانباز، جانباز 5-برج مروارید گوهرشاد-طبقه 14-واحد ۲
+              </p>
             </div>
           </div>
 
@@ -56,8 +58,8 @@
 
             <div>
               <h3>شماره تماس</h3>
-              <a href="tel:+982100000000">
-                ۰۲۱-۰۰۰۰-۰۰۰۰
+              <a href="tel:+985137907858">
+                05137907858
               </a>
             </div>
           </div>
@@ -89,7 +91,7 @@
         <div class="map-container">
           <h3>موقعیت ما</h3>
           <iframe
-            title="دفتر شرکت"
+            title="دفتر مرکزی"
             src="https://neshan.org/maps/iframe/places/_b14x_WJGPAa#c36.330-59.563-20z-0p/36.3296966422504/59.56256502476694"
             allowFullScreen
             loading="lazy"

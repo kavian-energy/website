@@ -123,7 +123,7 @@
               stroke="currentColor" stroke-width="1.8" aria-hidden="true">
               <path d="M22 16.92v3a2 2 0 01-2.18 2A19.79 19.79 0 0112 18.9a19.5 19.5 0 01-5-5 19.79 19.79 0 01-3.07-8.67A2 2 0 015.73 3h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L9.91 10.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 17.92z"/>
             </svg>
-            <a href="tel:+982100000000">05137907858</a>
+            <a href="tel:+985137907858">05137907858</a>
           </div>
           <div class="contact-row">
             <svg width="15" height="15" viewBox="0 0 24 24" fill="none"
@@ -156,8 +156,9 @@
       </p>
 
       <div class="emapna-badge">
-        <span>نماینده رسمی</span>
+        <span>نماینده رسمی و انحصاری فروش محصولات</span>
         <span class="emapna-name">eMAPNA</span>
+        <span>در استانهای خراسان رضوی و خراسان جنوبی</span>
       </div>
     </div>
   </div>
